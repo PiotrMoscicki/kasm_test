@@ -1,7 +1,2 @@
 image:
-  file: .gitpod.Dockerfile
-ports:
-  - port: 6080
-tasks:
-  - init: yarn
-    command: ./scripts/code.sh
+  file: gitpod/workspace-full-vnc
